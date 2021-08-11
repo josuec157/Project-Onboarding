@@ -1,0 +1,7 @@
+The information on statement I is not sufficient and months alternate between 30 and 31 days in a 
+month with the exception of February that only has 28 days unless it is a leap year which will 
+have 29 days. Since those details are not given in a statement I alone do not help. Statement II 
+on the other hand is sufficient since we know the 17th lands on a Saturday. We just go backwards 
+in which the 14th will be on a Wednesday. Also if the 17th lands on a Saturday and last day of the 
+month is Wednesday this will also suffice as it leads to the month being February in a non-leap 
+year where the last day of the month is the 28th.
